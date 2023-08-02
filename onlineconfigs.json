@@ -11,12 +11,12 @@
     },
     {
         "name": "mineland",
-        "link": {"value": "https://cdn.discordapp.com/attachments/1134841535557533768/1135599001039814696/mineland.json"},
+        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/xenzaconfigs/main/mineland.json"},
         "id": {"value": 3}
     },
     {
         "name": "skycave",
-        "link": {"value": "https://cdn.discordapp.com/attachments/1134841535557533768/1135590273796276354/skycave_matrix.json"},
+        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/xenzaconfigs/main/skycave_matrix.json"},
         "id": {"value": 4}
     }
 ]}
