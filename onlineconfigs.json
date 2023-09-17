@@ -1,22 +1,7 @@
 {"configs": [
     {
-        "name": "bmc",
-        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/xenzaconfigs/main/bmc.json"},
-        "id": {"value": 1}
-    },
-    {
         "name": "cheatmine",
         "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/xenzaconfigs/main/cheatmine.json"},
         "id": {"value": 2}
-    },
-    {
-        "name": "mineland",
-        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/xenzaconfigs/main/mineland.json"},
-        "id": {"value": 3}
-    },
-    {
-        "name": "skycave",
-        "link": {"value": "https://raw.githubusercontent.com/JonnyOnlineYT/xenzaconfigs/main/skycave.json"},
-        "id": {"value": 4}
     }
 ]}
