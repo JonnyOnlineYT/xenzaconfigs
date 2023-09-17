@@ -1,91 +1,25 @@
 {
   "name": "cheatmine",
-  "date": "Aug 4, 2023",
-  "time": "2:17 PM",
+  "date": "16.09.2023",
+  "time": "17:27",
   "modules": [
     {
-      "Name": "Velocity",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "KillAura",
-      "Toggled": false,
-      "Key": 19,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "AntiBot",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "Teams",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "BackTrack",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "AutoSoup",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "AutoClicker",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "AntiFireBall",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "TickBase",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "Criticals",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "MoreKB",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "COMBAT"
-    },
-    {
-      "Name": "ArrayList",
+      "Name": "BlockAnimation",
       "Toggled": true,
       "Key": 0,
       "Category": "RENDER"
     },
     {
-      "Name": "ClickGui",
+      "Name": "CustomItemPos",
       "Toggled": false,
-      "Key": 54,
+      "Key": 0,
       "Category": "RENDER"
     },
     {
-      "Name": "FastBow",
+      "Name": "StaffDetector",
       "Toggled": false,
-      "Key": 45,
-      "Category": "COMBAT"
+      "Key": 0,
+      "Category": "MISC"
     },
     {
       "Name": "AttackEffects",
@@ -94,91 +28,31 @@
       "Category": "RENDER"
     },
     {
-      "Name": "ESP",
+      "Name": "ChestStealer",
+      "Toggled": false,
+      "Key": 48,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "AutoRegister",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MISC"
+    },
+    {
+      "Name": "Notifications",
       "Toggled": true,
       "Key": 0,
       "Category": "RENDER"
     },
     {
-      "Name": "StorageESP",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "BlockAnimation",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "FullBright",
+      "Name": "TargetStrafe",
       "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
+      "Key": 49,
+      "Category": "MOVEMENT"
     },
     {
-      "Name": "Protector",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "NameTags",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "HUD",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "Tracers",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "ItemESP",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "Scoreboard",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "BlockESP",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "Barriers",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "Line",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "Ambiance",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "Crosshair",
+      "Name": "CustomGlint",
       "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
@@ -190,64 +64,16 @@
       "Category": "RENDER"
     },
     {
-      "Name": "Projectiles",
+      "Name": "Scoreboard",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "StorageESP",
       "Toggled": true,
       "Key": 0,
       "Category": "RENDER"
-    },
-    {
-      "Name": "CustomGlint",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "CustomItemPos",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "RENDER"
-    },
-    {
-      "Name": "Sprint",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "Jesus",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "NoSlow",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "Speed",
-      "Toggled": false,
-      "Key": 50,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "Timer",
-      "Toggled": false,
-      "Key": 45,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "Strafe",
-      "Toggled": false,
-      "Key": 50,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "Blink",
-      "Toggled": false,
-      "Key": 34,
-      "Category": "MOVEMENT"
     },
     {
       "Name": "TestModule",
@@ -256,70 +82,22 @@
       "Category": "MISC"
     },
     {
-      "Name": "Fly",
-      "Toggled": false,
-      "Key": 33,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "BugUp",
+      "Name": "AntiFireBall",
       "Toggled": false,
       "Key": 0,
-      "Category": "MOVEMENT"
+      "Category": "COMBAT"
     },
     {
-      "Name": "TargetStrafe",
+      "Name": "AutoClicker",
       "Toggled": false,
       "Key": 0,
-      "Category": "MOVEMENT"
+      "Category": "COMBAT"
     },
     {
       "Name": "FastLadder",
       "Toggled": false,
       "Key": 0,
       "Category": "MOVEMENT"
-    },
-    {
-      "Name": "Spider",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "NoWeb",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "Step",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "LongJump",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "VClip",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "SafeWalk",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MOVEMENT"
-    },
-    {
-      "Name": "NoFall",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "PLAYER"
     },
     {
       "Name": "AutoArmor",
@@ -334,52 +112,28 @@
       "Category": "PLAYER"
     },
     {
-      "Name": "ChestStealer",
+      "Name": "LongJump",
       "Toggled": false,
-      "Key": 48,
-      "Category": "PLAYER"
+      "Key": 36,
+      "Category": "MOVEMENT"
     },
     {
-      "Name": "Inventory",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "PLAYER"
-    },
-    {
-      "Name": "Notifications",
+      "Name": "NameTags",
       "Toggled": true,
       "Key": 0,
       "Category": "RENDER"
     },
     {
-      "Name": "AutoTool",
+      "Name": "Projectiles",
       "Toggled": true,
       "Key": 0,
-      "Category": "PLAYER"
+      "Category": "RENDER"
     },
     {
-      "Name": "FakeLaag",
-      "Toggled": false,
+      "Name": "BackTrack",
+      "Toggled": true,
       "Key": 0,
-      "Category": "PLAYER"
-    },
-    {
-      "Name": "Teleport",
-      "Toggled": false,
-      "Key": 44,
-      "Category": "PLAYER"
-    },
-    {
-      "Name": "Phase",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "PLAYER"
-    },
-    {
-      "Name": "Regen",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "PLAYER"
+      "Category": "COMBAT"
     },
     {
       "Name": "FastBreak",
@@ -388,10 +142,28 @@
       "Category": "WORLD"
     },
     {
-      "Name": "Fucker",
+      "Name": "Ambiance",
       "Toggled": false,
       "Key": 0,
-      "Category": "WORLD"
+      "Category": "RENDER"
+    },
+    {
+      "Name": "FakeLaag",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "FullBright",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "AutoSoup",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "COMBAT"
     },
     {
       "Name": "FastPlace",
@@ -400,10 +172,16 @@
       "Category": "WORLD"
     },
     {
-      "Name": "BlockFly",
+      "Name": "Crosshair",
       "Toggled": false,
-      "Key": 37,
-      "Category": "WORLD"
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "ChinaHat",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "RENDER"
     },
     {
       "Name": "Spammer",
@@ -412,40 +190,10 @@
       "Category": "MISC"
     },
     {
-      "Name": "MidClick",
+      "Name": "Protector",
       "Toggled": false,
       "Key": 0,
-      "Category": "MISC"
-    },
-    {
-      "Name": "Disabler",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MISC"
-    },
-    {
-      "Name": "AutoPlay",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MISC"
-    },
-    {
-      "Name": "AutoRegister",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MISC"
-    },
-    {
-      "Name": "AntiAim",
-      "Toggled": false,
-      "Key": 0,
-      "Category": "MISC"
-    },
-    {
-      "Name": "Fixes",
-      "Toggled": true,
-      "Key": 0,
-      "Category": "MISC"
+      "Category": "RENDER"
     },
     {
       "Name": "AutoWalk",
@@ -454,10 +202,274 @@
       "Category": "MISC"
     },
     {
-      "Name": "StaffDetector",
+      "Name": "Inventory",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "BlockESP",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "SafeWalk",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "AutoTool",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "ArrayList",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "AutoPlay",
       "Toggled": false,
       "Key": 0,
       "Category": "MISC"
+    },
+    {
+      "Name": "TickBase",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "MidClick",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "MISC"
+    },
+    {
+      "Name": "Teleport",
+      "Toggled": false,
+      "Key": 44,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "FastBow",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "Disabler",
+      "Toggled": false,
+      "Key": 23,
+      "Category": "MISC"
+    },
+    {
+      "Name": "Criticals",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "Shaders",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "Scaffold",
+      "Toggled": false,
+      "Key": 37,
+      "Category": "WORLD"
+    },
+    {
+      "Name": "ItemESP",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "ClickGui",
+      "Toggled": false,
+      "Key": 54,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "Barriers",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "Velocity",
+      "Toggled": true,
+      "Key": 38,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "KillAura",
+      "Toggled": false,
+      "Key": 19,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "MoreKB",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "AntiAim",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MISC"
+    },
+    {
+      "Name": "Tracers",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "AntiBot",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "NoSlow",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "NoWeb",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Fucker",
+      "Toggled": false,
+      "Key": 35,
+      "Category": "WORLD"
+    },
+    {
+      "Name": "BugUp",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Teams",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "COMBAT"
+    },
+    {
+      "Name": "Spider",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "NoFall",
+      "Toggled": false,
+      "Key": 24,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "Speed",
+      "Toggled": false,
+      "Key": 50,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Regen",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "Sprint",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Strafe",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Phase",
+      "Toggled": false,
+      "Key": 25,
+      "Category": "PLAYER"
+    },
+    {
+      "Name": "Jesus",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Timer",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "VClip",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Fixes",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "MISC"
+    },
+    {
+      "Name": "Blink",
+      "Toggled": false,
+      "Key": 34,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "HUD",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "Step",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MOVEMENT"
+    },
+    {
+      "Name": "Line",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "ESP",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "RENDER"
+    },
+    {
+      "Name": "Fly",
+      "Toggled": false,
+      "Key": 33,
+      "Category": "MOVEMENT"
     }
   ],
   "settings": [
@@ -482,7 +494,6 @@
         "Spoof",
         "Test",
         "Grim",
-        "Grim2",
         "BuzzReverse",
         "TickZero"
       ],
@@ -524,7 +535,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": -1.0,
+      "Value": 0.6,
       "MinValue": -1.0,
       "MaxValue": 1.0,
       "DecimalPlaces": 2,
@@ -533,7 +544,7 @@
       "id": 5
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -622,11 +633,25 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 5.0,
+      "Value": 8.0,
       "MinValue": 1.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
-      "Name": "KarhuStart",
+      "Name": "TickZero",
+      "ParentName": "Velocity",
+      "id": 69
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "TickZeroY",
       "ParentName": "Velocity",
       "id": 69
     },
@@ -678,7 +703,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 4.0,
+      "Value": 3.0,
       "MinValue": 0.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 1,
@@ -776,7 +801,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 22.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -790,7 +815,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 44.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -995,7 +1020,7 @@
       "id": 90
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -1457,6 +1482,20 @@
       "id": 41
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "KillAura",
+      "id": 123
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
@@ -1528,7 +1567,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 3.5,
+      "Value": 3.23,
       "MinValue": 3.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 2,
@@ -1542,7 +1581,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 100.0,
+      "Value": 70.0,
       "MinValue": 0.0,
       "MaxValue": 50000.0,
       "DecimalPlaces": 0,
@@ -1731,6 +1770,20 @@
       "Name": "KeepAlive",
       "ParentName": "BackTrack",
       "id": 17
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "BackTrack",
+      "id": 123
     },
     {
       "Boolean": false,
@@ -1990,7 +2043,27 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 20.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "SelectedOption": "Vestige",
+      "Options": [
+        "TimerRange",
+        "Shidori",
+        "Vestige"
+      ],
+      "Name": "Mode",
+      "ParentName": "TickBase",
+      "id": 9284
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 2.0,
       "MinValue": 0.0,
       "MaxValue": 40.0,
       "DecimalPlaces": 0,
@@ -2025,6 +2098,20 @@
       "Name": "NextTimer",
       "ParentName": "TickBase",
       "id": 73
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "TickBase",
+      "id": 123
     },
     {
       "Boolean": false,
@@ -2119,10 +2206,11 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Vega",
+      "SelectedOption": "New",
       "Options": [
         "Default",
-        "Vega"
+        "Vega",
+        "New"
       ],
       "Name": "Mode",
       "ParentName": "ArrayList",
@@ -2209,7 +2297,7 @@
       "id": 12
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -2249,6 +2337,34 @@
       "Name": "Backgound",
       "ParentName": "ArrayList",
       "id": 6
+    },
+    {
+      "Boolean": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "VegaColor1",
+      "ParentName": "ArrayList",
+      "id": 7
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 255,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "VegaColor2",
+      "ParentName": "ArrayList",
+      "id": 7
     },
     {
       "Boolean": false,
@@ -2772,7 +2888,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Fake2D",
+      "SelectedOption": "Vanilla",
       "Options": [
         "Box",
         "FakeCorner",
@@ -2814,7 +2930,7 @@
       "id": 9
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -2833,7 +2949,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 1000.0,
+      "Value": 400.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -2847,7 +2963,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 80.0,
+      "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 255.0,
       "DecimalPlaces": 0,
@@ -2856,7 +2972,7 @@
       "id": 13
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -3126,7 +3242,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 1.0,
+      "Value": 0.5,
       "MinValue": 0.1,
       "MaxValue": 3.0,
       "DecimalPlaces": 1,
@@ -3158,15 +3274,65 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Custom",
+      "SelectedOption": "Interpolation",
       "Options": [
         "None",
         "Vanilla",
-        "Custom"
+        "Custom",
+        "Interpolation"
       ],
       "Name": "Mode",
       "ParentName": "NameTags",
       "id": 1
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "SelectedOption": "OtherRainbow",
+      "Options": [
+        "Rainbow",
+        "OtherRainbow",
+        "Custom",
+        "Team"
+      ],
+      "Name": "ColorMode",
+      "ParentName": "NameTags",
+      "id": 235246
+    },
+    {
+      "Boolean": false,
+      "Red": 255,
+      "Green": 255,
+      "Blue": 255,
+      "Alpha": 255,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "CustomColor",
+      "ParentName": "NameTags",
+      "id": 21553
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Background",
+      "ParentName": "NameTags",
+      "id": 2153
     },
     {
       "Boolean": false,
@@ -3245,7 +3411,8 @@
         "Basic",
         "Other",
         "Ryu",
-        "Old"
+        "Old",
+        "CSGO"
       ],
       "Name": "Mode",
       "ParentName": "HUD",
@@ -3729,8 +3896,8 @@
     },
     {
       "Boolean": false,
-      "Red": 171,
-      "Green": 3,
+      "Red": 77,
+      "Green": 0,
       "Blue": 255,
       "Alpha": 255,
       "Value": 0.0,
@@ -4308,7 +4475,7 @@
       "id": 16
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -4322,7 +4489,7 @@
       "id": 1
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -4350,7 +4517,7 @@
       "id": 3
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -4681,7 +4848,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "LegitAbuse",
+      "SelectedOption": "LegitHop",
       "Options": [
         "VOnGround",
         "VBhop",
@@ -4784,7 +4951,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 0.1,
+      "Value": 1.31,
       "MinValue": 0.1,
       "MaxValue": 10.0,
       "DecimalPlaces": 2,
@@ -4883,6 +5050,20 @@
       "id": 137248
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "FakePlayer",
+      "ParentName": "Blink",
+      "id": 23627
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
@@ -4892,7 +5073,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "C0F",
+      "SelectedOption": "All",
       "Options": [
         "OnlyMovement",
         "Players",
@@ -4902,6 +5083,20 @@
       "Name": "Mode",
       "ParentName": "Blink",
       "id": 1
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "Blink",
+      "id": 123
     },
     {
       "Boolean": true,
@@ -4916,6 +5111,20 @@
       "Name": "GrimFly",
       "ParentName": "TestModule",
       "id": 69420420
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Blur",
+      "ParentName": "TestModule",
+      "id": 1337
     },
     {
       "Boolean": false,
@@ -5011,6 +5220,20 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "Fly",
+      "id": 123
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
       "Value": 15.0,
       "MinValue": 3.0,
       "MaxValue": 30.0,
@@ -5079,6 +5302,25 @@
       "Name": "AutoStrafe",
       "ParentName": "TargetStrafe",
       "id": 3
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "SelectedOption": "Vulcan",
+      "Options": [
+        "Vulcan",
+        "Vanilla"
+      ],
+      "Name": "Mode",
+      "ParentName": "FastLadder",
+      "id": 215
     },
     {
       "Boolean": false,
@@ -5289,7 +5531,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 3.4,
+      "Value": 1.05,
       "MinValue": 0.0,
       "MaxValue": 9.0,
       "DecimalPlaces": 2,
@@ -5340,7 +5582,8 @@
         "OnGround",
         "NoGround",
         "Stop",
-        "Legit"
+        "Legit",
+        "ACR"
       ],
       "Name": "Mode",
       "ParentName": "NoFall",
@@ -5484,7 +5727,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 66.0,
+      "Value": 11.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -5498,7 +5741,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 100.0,
+      "Value": 11.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -5563,6 +5806,20 @@
       "id": 7
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "AutoArmor",
+      "id": 123
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
@@ -5616,7 +5873,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 100.0,
+      "Value": 11.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -5630,7 +5887,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 88.0,
+      "Value": 22.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -5653,12 +5910,110 @@
       "id": 4
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Sand",
+      "ParentName": "InvCleaner",
+      "id": 124
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 55.0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Gravel",
+      "ParentName": "InvCleaner",
+      "id": 124
+    },
+    {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "SoulSand",
+      "ParentName": "InvCleaner",
+      "id": 124
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "TNT",
+      "ParentName": "InvCleaner",
+      "id": 124
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Cobweb",
+      "ParentName": "InvCleaner",
+      "id": 124
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Rails",
+      "ParentName": "InvCleaner",
+      "id": 124
+    },
+    {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "InvCleaner",
+      "id": 123
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 44.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -5672,7 +6027,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 22.0,
+      "Value": 4.0,
       "MinValue": 0.0,
       "MaxValue": 400.0,
       "DecimalPlaces": 0,
@@ -5737,6 +6092,20 @@
       "id": 5
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "ChestStealer",
+      "id": 123
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
@@ -5746,10 +6115,11 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Xenza",
+      "SelectedOption": "New",
       "Options": [
         "Xenza",
-        "Rise5"
+        "Rise5",
+        "New"
       ],
       "Name": "Mode",
       "ParentName": "Notifications",
@@ -6134,12 +6504,12 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 54.0,
+      "Value": 50.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "YawSpeed",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 2
     },
     {
@@ -6148,12 +6518,12 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 40.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
       "Name": "PitchSpeed",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 3
     },
     {
@@ -6164,25 +6534,11 @@
       "Alpha": 0,
       "Value": 0.0,
       "MinValue": 0.0,
-      "MaxValue": 10000.0,
+      "MaxValue": 3.0,
       "DecimalPlaces": 0,
-      "Name": "MinDelay",
-      "ParentName": "BlockFly",
-      "id": 123
-    },
-    {
-      "Boolean": false,
-      "Red": 0,
-      "Green": 0,
-      "Blue": 0,
-      "Alpha": 0,
-      "Value": 0.0,
-      "MinValue": 0.0,
-      "MaxValue": 10000.0,
-      "DecimalPlaces": 0,
-      "Name": "MaxDelay",
-      "ParentName": "BlockFly",
-      "id": 124
+      "Name": "Expand",
+      "ParentName": "Scaffold",
+      "id": 136
     },
     {
       "Boolean": false,
@@ -6195,7 +6551,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Snap",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 52789782
     },
     {
@@ -6209,7 +6565,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "ResetRotation",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 52789782
     },
     {
@@ -6223,7 +6579,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "NoDynamicFov",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 2643
     },
     {
@@ -6237,7 +6593,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "RayCast",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 6
     },
     {
@@ -6251,7 +6607,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "PlayerYaw",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 9
     },
     {
@@ -6265,7 +6621,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "BlockSafe",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 25
     },
     {
@@ -6279,7 +6635,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "MoonWalk",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 21
     },
     {
@@ -6293,7 +6649,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "GodBridge",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 6234
     },
     {
@@ -6307,7 +6663,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "LatestRotate",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 7
     },
     {
@@ -6321,7 +6677,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "LatestPlace",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 24
     },
     {
@@ -6335,7 +6691,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Predict",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 9
     },
     {
@@ -6344,12 +6700,12 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 0.0,
+      "Value": 3.0,
       "MinValue": 0.0,
       "MaxValue": 3.0,
       "DecimalPlaces": 0,
       "Name": "Backup",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 8
     },
     {
@@ -6363,11 +6719,11 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "AdStrafe",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 13
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -6377,7 +6733,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "AdStrafeLegit",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 19
     },
     {
@@ -6391,7 +6747,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Sprint",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 4
     },
     {
@@ -6405,7 +6761,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "MoveFix",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 5
     },
     {
@@ -6419,7 +6775,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "FlyTest",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 42069
     },
     {
@@ -6433,7 +6789,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SpamClick",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 20
     },
     {
@@ -6447,7 +6803,7 @@
       "MaxValue": 200.0,
       "DecimalPlaces": 0,
       "Name": "ClickDelay",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 22
     },
     {
@@ -6461,7 +6817,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "IntaveHit",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 23
     },
     {
@@ -6475,11 +6831,11 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Rotate",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 10
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -6489,7 +6845,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "CorrectSide",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 12
     },
     {
@@ -6503,7 +6859,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SameY",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 18
     },
     {
@@ -6517,7 +6873,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "AutoJump",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 18
     },
     {
@@ -6531,7 +6887,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "ESP",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 26
     },
     {
@@ -6553,7 +6909,7 @@
         "NCP"
       ],
       "Name": "TowerMode",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 1234
     },
     {
@@ -6567,7 +6923,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "TowerMove",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 25
     },
     {
@@ -6581,7 +6937,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "NoSwing",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 25
     },
     {
@@ -6595,7 +6951,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SafeWalk",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 7622
     },
     {
@@ -6609,7 +6965,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "StartSneak",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 29
     },
     {
@@ -6623,7 +6979,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "Sneak",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 13
     },
     {
@@ -6637,7 +6993,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SneakOnPlace",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 17
     },
     {
@@ -6651,7 +7007,7 @@
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
       "Name": "SneakTicks",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 27
     },
     {
@@ -6665,7 +7021,7 @@
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
       "Name": "SneakBlocksF",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 28
     },
     {
@@ -6679,7 +7035,7 @@
       "MaxValue": 15.0,
       "DecimalPlaces": 0,
       "Name": "SneakBlocksD",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 31
     },
     {
@@ -6693,7 +7049,7 @@
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
       "Name": "SneakDelay",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 30
     },
     {
@@ -6702,12 +7058,12 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 1022.0,
+      "Value": 1000.0,
       "MinValue": 0.0,
       "MaxValue": 4000.0,
       "DecimalPlaces": 0,
       "Name": "SneakDelay",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 16
     },
     {
@@ -6721,7 +7077,7 @@
       "MaxValue": 4.0,
       "DecimalPlaces": 2,
       "Name": "Timer",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 15
     },
     {
@@ -6741,7 +7097,7 @@
         "None"
       ],
       "Name": "SilentMode",
-      "ParentName": "BlockFly",
+      "ParentName": "Scaffold",
       "id": 1
     },
     {
@@ -6754,7 +7110,21 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "RickRoll",
+      "Name": "DisableOnWorld",
+      "ParentName": "Scaffold",
+      "id": 123
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "SelectedOption": "Custom",
       "Options": [
         "Custom",
         "RickRoll",
@@ -6771,7 +7141,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 3.0,
+      "Value": 5.0,
       "MinValue": 0.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 0,
@@ -6780,7 +7150,7 @@
       "id": 298637
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -6792,6 +7162,20 @@
       "Name": "Bipas",
       "ParentName": "Spammer",
       "id": 9382
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "Spammer",
+      "id": 123
     },
     {
       "Boolean": false,
@@ -7032,6 +7416,20 @@
       "id": 7
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "FrequencyFull",
+      "ParentName": "Disabler",
+      "id": 7
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
@@ -7044,6 +7442,20 @@
       "Name": "Delay",
       "ParentName": "Disabler",
       "id": 1
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "DisableOnWorld",
+      "ParentName": "Disabler",
+      "id": 123
     },
     {
       "Boolean": true,
@@ -7131,6 +7543,20 @@
       "id": 1
     },
     {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 128.0,
+      "MinValue": 1.0,
+      "MaxValue": 360.0,
+      "DecimalPlaces": 0,
+      "Name": "Speed",
+      "ParentName": "AntiAim",
+      "id": 51644
+    },
+    {
       "Boolean": true,
       "Red": 0,
       "Green": 0,
@@ -7215,7 +7641,7 @@
       "id": 2
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -7241,6 +7667,90 @@
       "Name": "IsInRound",
       "ParentName": "StaffDetector",
       "id": 1
+    },
+    {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Blur",
+      "ParentName": "Shaders",
+      "id": 123
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 3.0,
+      "MinValue": 8.0,
+      "MaxValue": 1.0,
+      "DecimalPlaces": 0,
+      "Name": "Blur Iterations",
+      "ParentName": "Shaders",
+      "id": 13612
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 4.0,
+      "MinValue": 10.0,
+      "MaxValue": 1.0,
+      "DecimalPlaces": 0,
+      "Name": "Blur Offset",
+      "ParentName": "Shaders",
+      "id": 136
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Bloom",
+      "ParentName": "Shaders",
+      "id": 123
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 3.0,
+      "MinValue": 8.0,
+      "MaxValue": 1.0,
+      "DecimalPlaces": 0,
+      "Name": "Bloom Iterations",
+      "ParentName": "Shaders",
+      "id": 135627
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 1.0,
+      "MinValue": 10.0,
+      "MaxValue": 1.0,
+      "DecimalPlaces": 0,
+      "Name": "Bloom Offset",
+      "ParentName": "Shaders",
+      "id": 16731
     }
   ]
 }
