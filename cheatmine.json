@@ -1,7 +1,7 @@
 {
   "name": "cheatmine",
-  "date": "16.09.2023",
-  "time": "17:27",
+  "date": "13.10.2023",
+  "time": "18:48",
   "modules": [
     {
       "Name": "BlockAnimation",
@@ -16,10 +16,22 @@
       "Category": "RENDER"
     },
     {
+      "Name": "MurderThingy",
+      "Toggled": false,
+      "Key": 0,
+      "Category": "MISC"
+    },
+    {
       "Name": "StaffDetector",
       "Toggled": false,
       "Key": 0,
       "Category": "MISC"
+    },
+    {
+      "Name": "MotionGraph",
+      "Toggled": true,
+      "Key": 0,
+      "Category": "RENDER"
     },
     {
       "Name": "AttackEffects",
@@ -203,7 +215,7 @@
     },
     {
       "Name": "Inventory",
-      "Toggled": false,
+      "Toggled": true,
       "Key": 0,
       "Category": "PLAYER"
     },
@@ -258,7 +270,7 @@
     {
       "Name": "FastBow",
       "Toggled": false,
-      "Key": 0,
+      "Key": 21,
       "Category": "COMBAT"
     },
     {
@@ -275,7 +287,7 @@
     },
     {
       "Name": "Shaders",
-      "Toggled": true,
+      "Toggled": false,
       "Key": 0,
       "Category": "RENDER"
     },
@@ -324,7 +336,7 @@
     {
       "Name": "AntiAim",
       "Toggled": false,
-      "Key": 0,
+      "Key": 33,
       "Category": "MISC"
     },
     {
@@ -420,7 +432,7 @@
     {
       "Name": "Timer",
       "Toggled": false,
-      "Key": 0,
+      "Key": 34,
       "Category": "MOVEMENT"
     },
     {
@@ -438,7 +450,7 @@
     {
       "Name": "Blink",
       "Toggled": false,
-      "Key": 34,
+      "Key": 33,
       "Category": "MOVEMENT"
     },
     {
@@ -490,6 +502,7 @@
         "PushGround",
         "Push",
         "Intave",
+        "IntaveTest",
         "Reverse",
         "Spoof",
         "Test",
@@ -703,7 +716,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 3.0,
+      "Value": 3.2,
       "MinValue": 0.0,
       "MaxValue": 15.0,
       "DecimalPlaces": 1,
@@ -717,7 +730,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 3.0,
+      "Value": 3.07,
       "MinValue": 3.0,
       "MaxValue": 6.0,
       "DecimalPlaces": 2,
@@ -745,7 +758,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 56.0,
+      "Value": 124.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -759,7 +772,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 90.0,
+      "Value": 146.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -773,7 +786,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 42.0,
+      "Value": 132.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -787,7 +800,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 114.0,
+      "Value": 152.0,
       "MinValue": 1.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -871,7 +884,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 0.9,
+      "Value": 0.18,
       "MinValue": 0.01,
       "MaxValue": 5.0,
       "DecimalPlaces": 2,
@@ -1132,7 +1145,7 @@
       "id": 1338
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -1202,7 +1215,7 @@
       "id": 1337
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -1258,7 +1271,7 @@
       "id": 4343907
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -1567,7 +1580,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 3.23,
+      "Value": 10.0,
       "MinValue": 3.0,
       "MaxValue": 10.0,
       "DecimalPlaces": 2,
@@ -1581,7 +1594,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 70.0,
+      "Value": 1666.0,
       "MinValue": 0.0,
       "MaxValue": 50000.0,
       "DecimalPlaces": 0,
@@ -1604,7 +1617,7 @@
       "id": 2
     },
     {
-      "Boolean": false,
+      "Boolean": true,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -2133,6 +2146,62 @@
       "id": 1
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "RGB",
+      "ParentName": "MotionGraph",
+      "id": 136
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 180.0,
+      "MinValue": 100.0,
+      "MaxValue": 300.0,
+      "DecimalPlaces": 0,
+      "Name": "Width",
+      "ParentName": "MotionGraph",
+      "id": 3167
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 5.0,
+      "MinValue": 1.0,
+      "MaxValue": 20.0,
+      "DecimalPlaces": 0,
+      "Name": "Height",
+      "ParentName": "MotionGraph",
+      "id": 2472
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": -200.0,
+      "MinValue": -500.0,
+      "MaxValue": 500.0,
+      "DecimalPlaces": 0,
+      "Name": "YOffset",
+      "ParentName": "MotionGraph",
+      "id": 2472
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
@@ -2492,8 +2561,7 @@
       "SelectedOption": "Default",
       "Options": [
         "Default",
-        "Plane",
-        "CSGO",
+        "Clean",
         "New"
       ],
       "Name": "Mode",
@@ -2917,10 +2985,10 @@
     },
     {
       "Boolean": false,
-      "Red": 21,
-      "Green": 121,
-      "Blue": 230,
-      "Alpha": 65,
+      "Red": 0,
+      "Green": 255,
+      "Blue": 17,
+      "Alpha": 255,
       "Value": 0.0,
       "MinValue": 0.0,
       "MaxValue": 0.0,
@@ -3112,7 +3180,8 @@
         "Box",
         "OtherBox",
         "FakeCorner",
-        "Fake2D"
+        "Fake2D",
+        "Real2D"
       ],
       "Name": "Mode",
       "ParentName": "StorageESP",
@@ -4643,7 +4712,7 @@
       "id": 11
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -4685,7 +4754,7 @@
       "id": 14
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -4850,8 +4919,8 @@
       "DecimalPlaces": 0,
       "SelectedOption": "LegitHop",
       "Options": [
-        "VOnGround",
-        "VBhop",
+        "Vanilla",
+        "VanillaHop",
         "LegitHop",
         "LegitAbuse",
         "Matrix",
@@ -4896,8 +4965,8 @@
       "Blue": 0,
       "Alpha": 0,
       "Value": 1.0,
-      "MinValue": 0.0,
-      "MaxValue": 5.0,
+      "MinValue": 0.01,
+      "MaxValue": 0.42,
       "DecimalPlaces": 2,
       "Name": "Height",
       "ParentName": "Speed",
@@ -4951,7 +5020,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 1.31,
+      "Value": 0.1,
       "MinValue": 0.1,
       "MaxValue": 10.0,
       "DecimalPlaces": 2,
@@ -5050,7 +5119,7 @@
       "id": 137248
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -5073,7 +5142,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "All",
+      "SelectedOption": "C0F",
       "Options": [
         "OnlyMovement",
         "Players",
@@ -5113,6 +5182,34 @@
       "id": 69420420
     },
     {
+      "Boolean": true,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "FlyPredict",
+      "ParentName": "TestModule",
+      "id": 208736
+    },
+    {
+      "Boolean": false,
+      "Red": 21,
+      "Green": 121,
+      "Blue": 230,
+      "Alpha": 255,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Color",
+      "ParentName": "TestModule",
+      "id": 1
+    },
+    {
       "Boolean": false,
       "Red": 0,
       "Green": 0,
@@ -5136,7 +5233,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "VulcanSex",
+      "SelectedOption": "Motion",
       "Options": [
         "Vanilla",
         "Motion",
@@ -5152,7 +5249,8 @@
         "Karhu",
         "FoxAC",
         "VulcanGlide",
-        "Grim"
+        "Grim",
+        "Packet"
       ],
       "Name": "Mode",
       "ParentName": "Fly",
@@ -5727,7 +5825,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 11.0,
+      "Value": 100.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -5887,7 +5985,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 22.0,
+      "Value": 100.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -6013,7 +6111,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 44.0,
+      "Value": 200.0,
       "MinValue": 0.0,
       "MaxValue": 1000.0,
       "DecimalPlaces": 0,
@@ -6090,6 +6188,20 @@
       "Name": "SpamClick",
       "ParentName": "ChestStealer",
       "id": 5
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "CheckName",
+      "ParentName": "ChestStealer",
+      "id": 32859
     },
     {
       "Boolean": true,
@@ -6211,6 +6323,7 @@
       "DecimalPlaces": 0,
       "SelectedOption": "Vulcan",
       "Options": [
+        "DEV",
         "Karhu",
         "Vulcan",
         "Vanilla",
@@ -6504,7 +6617,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 50.0,
+      "Value": 180.0,
       "MinValue": 0.0,
       "MaxValue": 180.0,
       "DecimalPlaces": 0,
@@ -6597,7 +6710,7 @@
       "id": 6
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -6611,7 +6724,7 @@
       "id": 9
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -6906,7 +7019,8 @@
         "Vanilla",
         "LowHop",
         "FastJump",
-        "NCP"
+        "NCP",
+        "AAC"
       ],
       "Name": "TowerMode",
       "ParentName": "Scaffold",
@@ -7435,6 +7549,34 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "GrimFull",
+      "ParentName": "Disabler",
+      "id": 7
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
+      "Value": 0.0,
+      "MinValue": 0.0,
+      "MaxValue": 0.0,
+      "DecimalPlaces": 0,
+      "Name": "Debug",
+      "ParentName": "Disabler",
+      "id": 1536
+    },
+    {
+      "Boolean": false,
+      "Red": 0,
+      "Green": 0,
+      "Blue": 0,
+      "Alpha": 0,
       "Value": 1000.0,
       "MinValue": 1.0,
       "MaxValue": 4000.0,
@@ -7519,7 +7661,7 @@
       "MinValue": 0.0,
       "MaxValue": 0.0,
       "DecimalPlaces": 0,
-      "SelectedOption": "Random",
+      "SelectedOption": "Spin",
       "Options": [
         "Spin",
         "Random"
@@ -7529,7 +7671,7 @@
       "id": 613473
     },
     {
-      "Boolean": true,
+      "Boolean": false,
       "Red": 0,
       "Green": 0,
       "Blue": 0,
@@ -7548,7 +7690,7 @@
       "Green": 0,
       "Blue": 0,
       "Alpha": 0,
-      "Value": 128.0,
+      "Value": 84.0,
       "MinValue": 1.0,
       "MaxValue": 360.0,
       "DecimalPlaces": 0,
